@@ -1,0 +1,20 @@
+# Core libraries
+transformers>=4.30.0
+torch>=2.0.0
+tensorflow>=2.12.0
+
+# Dataset handling
+datasets>=2.12.0
+
+# Additional utilities
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Optional: for notebook examples
+jupyter>=1.0.0
+matplotlib>=3.7.0
+
+# Development tools
+black>=23.3.0  # code formatting
+flake8>=6.0.0  # code linting
