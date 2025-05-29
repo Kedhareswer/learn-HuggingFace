@@ -57,5 +57,4 @@ Feel free to:
 - Suggest improvements
 - Add new examples
 
-## License
 feel free to use and modify for your needs.
